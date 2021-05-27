@@ -1,0 +1,62 @@
+body {
+    background:  rgb(207, 198, 198);
+    font:  normal 15px Arial;
+}
+
+header {
+    font:normal 50px Arial;
+    text-align: center;
+    color: white;
+}
+footer {
+    font: italic 25px Arial;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+
+
+h2 {
+    width: 1500px;
+    height: 90px;
+    background-color:  rgb(221, 111, 197);
+    border-radius: 5px;
+    padding: 5px;
+    margin: auto;
+
+}
+
+textarea {
+   width: 500px;
+   height: 20px;
+   background-color: rgb(219, 214, 214);
+   border-radius: 5px;
+   padding: 5px;
+   margin-top: 20px;
+   margin-left: 35%;
+   
+}
+/*
+div#container{
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    background: white;
+}
+*/
+ul {
+    background: rgb(201, 194, 194);
+    list-style: none;
+    text-align: center;
+    margin-right: 25px;
+}
+
+li{
+    background: gray;
+    border-radius: 1px;
+    list-style: none;
+}
